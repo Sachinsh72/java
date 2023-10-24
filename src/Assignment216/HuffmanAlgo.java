@@ -138,5 +138,3 @@ class MyComparator implements Comparator<HuffmanNode> {
         return x.data - y.data;
     }
 }
-
-// This code is contributed by Kunwar Desh Deepak Singh
